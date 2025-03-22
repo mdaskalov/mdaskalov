@@ -1,6 +1,6 @@
-- 👋 Hi, I’m here!
-- Give me a ⭐️ if you like what I am doing!
-- 👀 I’m interested in IoT, Music, and much more...
+- 👋 Hey there! Glad you stopped by!
+- ⭐️ Drop a star if you vibe with my work!
+- 👀 I’m passionate about IoT, music, and a whole lot more—stay tuned!
 
 <!---
 mdaskalov/mdaskalov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
